@@ -1,6 +1,8 @@
 # OCA-Task-1-Wireframe-Mockup
 This project includes wireframe and mockup designs for a personal website, created in Figma. The wireframe shows the homepage layout with five sections: header, hero, about, services, and footer. The mockup adds color, fonts, and images, offering a realistic view of the final design, demonstrating UI/UX design skills.
 
+# Figma Link
+https://www.figma.com/design/HNkxyI4pFBSAxFS1OyGEQ3/Task-1-UX%2FUI-Orange---Abdulnour
 
 # Project Overview
 This project contains the wireframe and mockup designs for overdrive home web page. The purpose of this task is to showcase my skills in reproducing the design of a selected web page. The wireframe represents the main structure and layout of the website, while the mockup provides a more detailed and visually polished version of the website with specific design elements like color, fonts, and images.
@@ -17,9 +19,12 @@ Project Structure
 # The repository contains the following files:
 
 Wireframe.pdf: A PDF file showcasing the wireframe of the website. This version focuses on layout and structural elements without any images or colors.
+
 Mockup.pdf: A PDF file showcasing the final mockup of the website. This version includes color, typography, and imagery to give a more realistic view of the website's final appearance.
+
+All.pdf:  A PDF file showcasing the final mockup of the website. This version includes color, typography, and imagery to give a more realistic view of the website's final appearance.
+
 README.md: The documentation file for the project.
-assets: Folder containing the assets used in the mockup (images, icons, etc.).
 
 # Website Design Details
 ## Wireframe
