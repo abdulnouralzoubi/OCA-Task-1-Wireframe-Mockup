@@ -4,6 +4,9 @@ The task must include wireframe and mockup designs for a selected web page. The 
 # Project Overview
 This project contains the wireframe and mockup designs for overdrive home web page. The purpose of this task is to showcase my skills in reproducing the design of a selected web page.
 
+# Purpose and Goals
+The goal of this project is to demonstrate proficiency in creating wireframes and mockups for a web page. The wireframe is intended to outline the main features and layout of the web page, while the mockup aims to provide a realistic visual representation of the web page’s final look.
+
 # How to View the Design
 To view the wireframe and mockup:
 1. Open the [Wireframe.pdf](/Wireframe.pdf.pdf) and [Mockup.pdf](/Mockup.pdf) files online through GitHub, or in any PDF viewer.
@@ -13,20 +16,11 @@ To view the wireframe and mockup:
 The wireframe will show you the structure and layout of the site, while the mockup provides a more realistic visualization with color and design elements.
 
 
-# Purpose and Goals
-The goal of this project is to demonstrate proficiency in creating wireframes and mockups for a web page. The wireframe is intended to outline the main features and layout of the web page, while the mockup aims to provide a realistic visual representation of the web page’s final look.
-
 # Resources & Tools Used
 *  [Aliena Cai - Figma UX tutorial for beginners - Wireframe](https://www.youtube.com/watch?v=D4NyQ5iOMF0)
 *  [Aliena Cai - Figma UX tutorial for beginners - Mockup](https://www.youtube.com/watch?v=oZAKb_gs2Uo)
 *  [Figma](https://www.figma.com/): Used for both wireframe and mockup design.
 *  [Fount](https://fount.artequalswork.com/): Used as a JS bookmarklet, the font identifier streamlines font detection, making it quick and easy.
-
-# The repository contains the following files:
-1. [All.pdf](/All.pdf):  A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.
-2. [Wireframe.pdf](/Wireframe.pdf.pdf): A PDF file showcasing the wireframe of the web page. This version focuses on layout and structural elements without any images or colors.
-3. [Mockup.pdf](/Mockup.pdf): A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.
-4. README.md: The documentation file for the project.
 
 # Web Page Design Details
 ## Wireframe
