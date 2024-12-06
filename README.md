@@ -6,7 +6,7 @@ This project contains the wireframe and mockup designs for overdrive home web pa
 
 # How to View the Design
 To view the wireframe and mockup:
-1. Open the [Wireframe.pdf](/../../Wireframe.pdf) and [Mockup.pdf](/../../Wireframe.pdf) files online through GitHub, or in any PDF viewer.
+1. Open the [Wireframe.pdf](/Wireframe.pdf.pdf) and [Mockup.pdf](/../../blob/main/Mockup.pdf) files online through GitHub, or in any PDF viewer.
 2. You can also check the [All.pdf](/../../Wireframe.pdf, which contains the Original, Wireframe, and Mockup files all together side by side, from left to right.
 3. Through the link on [**figma**](https://www.figma.com/design/HNkxyI4pFBSAxFS1OyGEQ3), where the layers is visible.
 
