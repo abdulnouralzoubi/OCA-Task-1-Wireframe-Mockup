@@ -19,7 +19,7 @@ The goal of this project is to demonstrate proficiency in creating wireframes an
 # Resources & Tools Used
   [Aliena Cai - Figma UX tutorial for beginners - Wireframe](https://www.youtube.com/watch?v=D4NyQ5iOMF0)<br>
   [Aliena Cai - Figma UX tutorial for beginners - Mockup](https://www.youtube.com/watch?v=oZAKb_gs2Uo)<br>
-  Figma: Used for both wireframe and mockup design.<br>
+  [Figma](https://www.figma.com/): Used for both wireframe and mockup design.<br>
   [Fount](https://fount.artequalswork.com/): Used as a JS bookmarklet, the font identifier streamlines font detection, making it quick and easy.
 
 # The repository contains the following files:
