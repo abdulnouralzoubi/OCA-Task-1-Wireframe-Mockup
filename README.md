@@ -5,11 +5,8 @@ The task must include wireframe and mockup designs for a selected web page. The 
 This project contains the wireframe and mockup designs for overdrive home web page. The purpose of this task is to showcase my skills in reproducing the design of a selected web page.
 
 # How to View the Design
-To view the wireframe and mockup:
-
-  Open the Wireframe.pdf and Mockup.pdf files online through GitHub, or in any PDF viewer.<br>You can also check the All.pdf, which contains the Original, Wireframe, and Mockup files all together side by side, from left to right.
-  
-  or through the link on [figma](https://www.figma.com/design/HNkxyI4pFBSAxFS1OyGEQ3/Task-1-UX%2FUI-Orange---Abdulnour), where the layers is visible.
+To view the wireframe and mockup:<br>
+Open the [Wireframe.pdf](OCA-Task-1-Wireframe-Mockup/Wireframe.pdf) and Mockup.pdf files online through GitHub, or in any PDF viewer.<br>You can also check the All.pdf, which contains the Original, Wireframe, and Mockup files all together side by side, from left to right.<br>Through the link on [**figma**](https://www.figma.com/design/HNkxyI4pFBSAxFS1OyGEQ3/Task-1-UX%2FUI-Orange---Abdulnour), where the layers is visible.
   
 The wireframe will show you the structure and layout of the site, while the mockup provides a more realistic visualization with color and design elements.
 
