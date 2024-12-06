@@ -5,10 +5,11 @@ The task must include wireframe and mockup designs for a selected web page. The 
 This project contains the wireframe and mockup designs for overdrive home web page. The purpose of this task is to showcase my skills in reproducing the design of a selected web page.
 
 # How to View the Design
-To view the wireframe and mockup:<br>
-- 1. Open the [Wireframe.pdf](OCA-Task-1-Wireframe-Mockup/Wireframe.pdf) and Mockup.pdf files online through GitHub, or in any PDF viewer.<br>
-- 2. You can also check the All.pdf, which contains the Original, Wireframe, and Mockup files all together side by side, from left to right.<br>
-- 3. Through the link on [**figma**](https://www.figma.com/design/HNkxyI4pFBSAxFS1OyGEQ3/Task-1-UX%2FUI-Orange---Abdulnour), where the layers is visible.<br>
+To view the wireframe and mockup:
+1. Open the [Wireframe.pdf](/../../Wireframe.pdf) and [Mockup.pdf](/../../Wireframe.pdf) files online through GitHub, or in any PDF viewer.
+2. You can also check the [All.pdf](/../../Wireframe.pdf, which contains the Original, Wireframe, and Mockup files all together side by side, from left to right.
+3. Through the link on [**figma**](https://www.figma.com/design/HNkxyI4pFBSAxFS1OyGEQ3), where the layers is visible.
+
 The wireframe will show you the structure and layout of the site, while the mockup provides a more realistic visualization with color and design elements.
 
 
@@ -22,9 +23,9 @@ The goal of this project is to demonstrate proficiency in creating wireframes an
   [Fount](https://fount.artequalswork.com/): Used as a JS bookmarklet, the font identifier streamlines font detection, making it quick and easy.
 
 # The repository contains the following files:
-1. [All.pdf](/../../OCA-Task-1-Wireframe-Mockup/All.pdf):  A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.
-2. [Wireframe.pdf](/../../OCA-Task-1-Wireframe-Mockup/Wireframe.pdf): A PDF file showcasing the wireframe of the web page. This version focuses on layout and structural elements without any images or colors.
-3. [Mockup.pdf](/../../OCA-Task-1-Wireframe-Mockup/Mockup.pdf): A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.
+1. [All.pdf](/../../All.pdf):  A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.
+2. [Wireframe.pdf](/../../Wireframe.pdf): A PDF file showcasing the wireframe of the web page. This version focuses on layout and structural elements without any images or colors.
+3. [Mockup.pdf](/../../Mockup.pdf): A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.
 4. README.md: The documentation file for the project.
 
 # Web Page Design Details
