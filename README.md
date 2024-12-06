@@ -6,8 +6,9 @@ This project contains the wireframe and mockup designs for overdrive home web pa
 
 # How to View the Design
 To view the wireframe and mockup:<br>
-Open the [Wireframe.pdf](OCA-Task-1-Wireframe-Mockup/Wireframe.pdf) and Mockup.pdf files online through GitHub, or in any PDF viewer.<br>You can also check the All.pdf, which contains the Original, Wireframe, and Mockup files all together side by side, from left to right.<br>Through the link on [**figma**](https://www.figma.com/design/HNkxyI4pFBSAxFS1OyGEQ3/Task-1-UX%2FUI-Orange---Abdulnour), where the layers is visible.
-  
+> Open the [Wireframe.pdf](OCA-Task-1-Wireframe-Mockup/Wireframe.pdf) and Mockup.pdf files online through GitHub, or in any PDF viewer.<br>
+> You can also check the All.pdf, which contains the Original, Wireframe, and Mockup files all together side by side, from left to right.<br>
+> Through the link on [**figma**](https://www.figma.com/design/HNkxyI4pFBSAxFS1OyGEQ3/Task-1-UX%2FUI-Orange---Abdulnour), where the layers is visible.<br>
 The wireframe will show you the structure and layout of the site, while the mockup provides a more realistic visualization with color and design elements.
 
 
@@ -15,22 +16,15 @@ The wireframe will show you the structure and layout of the site, while the mock
 The goal of this project is to demonstrate proficiency in creating wireframes and mockups for a web page. The wireframe is intended to outline the main features and layout of the web page, while the mockup aims to provide a realistic visual representation of the web page’s final look.
 
 # Resources & Tools Used
-  [Aliena Cai - Figma UX tutorial for beginners - Wireframe](https://www.youtube.com/watch?v=D4NyQ5iOMF0)
-  
-  [Aliena Cai - Figma UX tutorial for beginners - Mockup](https://www.youtube.com/watch?v=oZAKb_gs2Uo)
-  
-  Figma: Used for both wireframe and mockup design.
-  
+  [Aliena Cai - Figma UX tutorial for beginners - Wireframe](https://www.youtube.com/watch?v=D4NyQ5iOMF0)<br>
+  [Aliena Cai - Figma UX tutorial for beginners - Mockup](https://www.youtube.com/watch?v=oZAKb_gs2Uo)<br>
+  Figma: Used for both wireframe and mockup design.<br>
   [Fount](https://fount.artequalswork.com/): Used as a JS bookmarklet, the font identifier streamlines font detection, making it quick and easy.
 
 # The repository contains the following files:
-
-1- All.pdf:  A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.
-
-2- Wireframe.pdf: A PDF file showcasing the wireframe of the web page. This version focuses on layout and structural elements without any images or colors.
-
-3- Mockup.pdf: A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.
-
+1- [All.pdf](OCA-Task-1-Wireframe-Mockup/All.pdf):  A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.<br>
+2- [Wireframe.pdf](OCA-Task-1-Wireframe-Mockup/Wireframe.pdf): A PDF file showcasing the wireframe of the web page. This version focuses on layout and structural elements without any images or colors.<br>
+3- [Mockup.pdf](OCA-Task-1-Wireframe-Mockup/Mockup.pdf): A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.<br>
 4- README.md: The documentation file for the project.
 
 # Web Page Design Details
