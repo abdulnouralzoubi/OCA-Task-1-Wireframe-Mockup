@@ -8,16 +8,21 @@ This project contains the wireframe and mockup designs for overdrive home web pa
 To view the wireframe and mockup:
   Open the Wireframe.pdf and Mockup.pdf files online through GitHub, or in any PDF viewer.
   You can also check the All.pdf, which contains the Original, Wireframe, and Mockup files all together side by side, from left to right.
-  or through the link on [figma]([url](https://www.figma.com/design/HNkxyI4pFBSAxFS1OyGEQ3/Task-1-UX%2FUI-Orange---Abdulnour)), where the layers is visible.
+  or through the link on [figma](https://www.figma.com/design/HNkxyI4pFBSAxFS1OyGEQ3/Task-1-UX%2FUI-Orange---Abdulnour), where the layers is visible.
 The wireframe will show you the structure and layout of the site, while the mockup provides a more realistic visualization with color and design elements.
 
 
 # Purpose and Goals
 The goal of this project is to demonstrate proficiency in creating wireframes and mockups for a web page. The wireframe is intended to outline the main features and layout of the web page, while the mockup aims to provide a realistic visual representation of the web page’s final look.
 
-# Tools Used
+# Resources & Tools Used
+  [Aliena Cai - Figma UX tutorial for beginners - Wireframe](https://www.youtube.com/watch?v=D4NyQ5iOMF0)
+  
+  [Aliena Cai - Figma UX tutorial for beginners - Mockup](https://www.youtube.com/watch?v=oZAKb_gs2Uo)
+  
   Figma: Used for both wireframe and mockup design.
-  [Fount]([url](https://fount.artequalswork.com/)): Used as a JS bookmarklet, the font identifier streamlines font detection, making it quick and easy.
+  
+  [Fount](https://fount.artequalswork.com/): Used as a JS bookmarklet, the font identifier streamlines font detection, making it quick and easy.
 
 # The repository contains the following files:
 
@@ -33,7 +38,7 @@ The goal of this project is to demonstrate proficiency in creating wireframes an
 ## Wireframe
 The wireframe includes five main sections on the homepage:
   Header: Includes the web page logo, navigation menu, and search bar.
-  Main Sections: Consist of 5 sections offering differnt services with millions of ebooks, audio books, and DIYs. Other services as electronic library, streaming service and more. 
+  Main Sections: Consist of 5 sections offering differnt services with millions of ebooks, audio books, and DIYs. Other services as electronic library, streaming service and more.
   Footer: Contains services, apps, about and contanct information and additional links.
 The wireframe is simple and focuses on the placement and layout of each element, without any styling, colors, or images. The goal is to represent the basic structure and features of the web page.
 
