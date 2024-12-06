@@ -24,7 +24,7 @@ The goal of this project is to demonstrate proficiency in creating wireframes an
 
 # The repository contains the following files:
 1. [All.pdf](/All.pdf):  A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.
-2. [Wireframe.pdf](/Wireframe.pdf): A PDF file showcasing the wireframe of the web page. This version focuses on layout and structural elements without any images or colors.
+2. [Wireframe.pdf](/Wireframe.pdf.pdf): A PDF file showcasing the wireframe of the web page. This version focuses on layout and structural elements without any images or colors.
 3. [Mockup.pdf](/Mockup.pdf): A PDF file showcasing the final mockup of the web page. This version includes color, typography, and imagery to give a more realistic view of the web page's final appearance.
 4. README.md: The documentation file for the project.
 
